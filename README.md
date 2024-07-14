@@ -1,11 +1,11 @@
 
-#<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="30"/> Hey! Nice to see you.
+# <img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="30"/> Hey! Nice to see you.
 
 I’m D6NiII9L. I’ve been working on the Front-End development and focusing on the javascript. I’m the type of person who seizes every opportunity to learn something new.
 
 &nbsp;
 
-##🛠️ Skills and Technologies
+## 🛠️ Skills and Technologies
 
 <a  href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
 <img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E" />
